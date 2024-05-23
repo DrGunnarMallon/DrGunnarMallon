@@ -1,12 +1,12 @@
-👋 Hi, I’m Gunnar! I'm an Assistant Professor in Physical Geography at the University of Groningen researching the impacts of climate change on the natural environments and developing new learning tools.
+👋 Hey there! I'm Gunnar, an Assistant Professor in Physical Geography at the University of Groningen. When I'm not studying the impacts of climate change, you’ll find me immersed in Geospatial Data Science and Machine Learning projects.
 
-👀 I’m particularly interested in data analysis and visualisation, developing learning technologies, web and app development, and learning new exciting things...
+🌍 By day, I explore natural environments, and by night, I’m coding away on mobile apps and webapps. I’m also developing courses in Python, Dart, JavaScript, and React to share my love for coding with others.
 
-🌱 I’m currently learning React Native, to see if it is a viable alternative to Kotlin/Swift for me for app development.
+🚀 Got an exciting project idea? Whether it’s about learning tech, climate solutions, or something else cool, I’m always up for a new challenge and collaboration.
 
-💞️ I’m looking to collaborate on exciting projects in the domain of learning technology, data visualisaiton, animal welfare, human rights, and climate technology.
+📬 Feel free to reach out to me on Instagram, here on GitHub, or via my university email. Let’s connect and create something amazing together!
 
-📫 You can reach me on here or on Twitter (@GunnarMallon). It'd be great to hear from you, if you think that there might be a project we'd both be interested in :)
+Looking forward to hearing from you!
 
 <!---
 DrGunnarMallon/DrGunnarMallon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
